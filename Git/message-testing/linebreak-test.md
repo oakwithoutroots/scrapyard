@@ -5,3 +5,5 @@ git commit -m "line 1"^
 (Shift Enter)
 "line 3" (Shift Enter)
 ...
+
+Result: Failed. [Shift + Enter] input registered as submission.
